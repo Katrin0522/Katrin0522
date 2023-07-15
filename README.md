@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @Katrin0522
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# About me
 
-<!---
-Katrin0522/Katrin0522 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Name - **Katrin Borowski**
+
+Age - **18 y.o.**
+
+# 🦝 Skills
+
+- 🐍Python[Telegram|VK Bots, PC Scripts, Desktop GUI Programs]
+- ✏️Digital Drawing[Furry, Backgrounds]
+
+# I'm studying now
+- C-Sharp
+- 🎮Unity
+
+# Plans
+
+- Create your own computer game based on your school in the style of Night In The Woods
+(The progress video - https://youtu.be/diSfIg5K_pE)
+
+# ***All my repositories are private because I don't want others to see my shitty code. :slightly_frowning_face:***
+
+
+# Contact with me
+
+- TELEGRAM: https://t.me/Katrin0522
