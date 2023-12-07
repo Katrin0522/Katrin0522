@@ -2,7 +2,7 @@
 
 Name - **Katrin Borowski**
 
-Age - **18 y.o.**
+Age - **19 y.o.**
 
 # 🦝 Skills
 
