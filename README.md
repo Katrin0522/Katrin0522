@@ -8,7 +8,7 @@ Age - **19 y.o.**
 
 - 🐍Python[Telegram|VK Bots, PC Scripts, Desktop GUI Programs]
 - ✏️Digital Drawing[Furry, Backgrounds]
-- C-Sharp
+- C# a little bit
 - 🎮Unity
 
 # Work
@@ -16,7 +16,7 @@ Age - **19 y.o.**
 
 # Plans
 
-- idk, mayne crate my mobile game
+- idk, maybe create my mobile game
 
 # ***All my repositories are private because I don't want others to see my shitty code. :slightly_frowning_face:***
 
