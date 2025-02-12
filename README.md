@@ -6,10 +6,10 @@ Age - **20 y.o.**
 
 # 🦝 Skills
 
-- 🐍Python[Telegram|VK Bots, PC Scripts, Desktop GUI Programs]
+- 🐍Python/C#
 - ✏️Digital Drawing[Furry, Backgrounds]
-- C# a little bit
 - 🎮Unity
+- Modding
 
 # Work
 - Testing Mobile games in ##### #####
