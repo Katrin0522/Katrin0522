@@ -1,18 +1,18 @@
 # About me
 
-Name - **Katrin Borowski**
+Name - **Katrin Borowsky**
 
 Age - **20 y.o.**
 
 # 🦝 Skills
 
 - 🐍Python/C#
-- ✏️Digital Drawing[Furry, Backgrounds]
+- ✏️Digital Drawing
 - 🎮Unity
-- Modding
+- Modding a little bit
 
 # Work
-- Testing Mobile games in ##### #####
+- Testing
 
 # Plans
 
