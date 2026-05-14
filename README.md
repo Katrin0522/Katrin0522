@@ -1,4 +1,5 @@
-![](https://nirzak-streak-stats.vercel.app/?user=katrin0522&theme=dracula&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=katrin0522&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://streak-stats.demolab.com/?user=Katrin0522&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Katrin0522&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 ![](https://komarev.com/ghpvc/?username=katrin0522&color=yellowgreen)
